@@ -5,6 +5,8 @@
 
 ### *Ние сме сплотен колектив от креативни специалисти, координирани от [Radoslav Bozhinov](https://github.com/swolf86)!*
 
+>### Моля всички, регистрирайте се в git hub. Aко нямате достъп до задачите и не можете да се assigne-те задача - моля поискайте [Ilko Kacharov](https://github.com/kachar) да ви добави към Подкрепи.бг организацията в гит хъб. 
+
 ## Съдържание:
 
 >1. [Ръководства](https://github.com/podkrepi-bg/design/blob/main/readme.md#%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0)<br>
