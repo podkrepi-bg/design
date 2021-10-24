@@ -7,9 +7,9 @@
 
 ## Съдържание:
 
->1. [Ръководства]()<br>
->2. [Работна среда]()<br>
->3. [Допълнителна информация]()
+>1. [Ръководства](https://github.com/podkrepi-bg/design/blob/main/readme.md#%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0)<br>
+>2. [Работна среда](https://github.com/podkrepi-bg/design/blob/main/readme.md#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B0-%D1%81%D1%80%D0%B5%D0%B4%D0%B0)<br>
+>3. [Допълнителна информация](https://github.com/podkrepi-bg/design/blob/main/readme.md#%D0%B4%D0%BE%D0%BF%D1%8A%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
 
 
 
@@ -21,7 +21,7 @@
 >&#x1F4D9; [Протоколи от срещите](https://drive.google.com/drive/u/0/folders/1No71LVapl78v2_md9u6vcmWArCJ3UApb)<br>
 >##### Тук може да намерите информация за взетите решения, ако сте пропуснали някоя от срещите.
 
-###### обратно в [съдържанието]()
+###### обратно в [съдържанието](https://github.com/podkrepi-bg/design/blob/main/readme.md#%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 
 ## Работна среда 
 
@@ -32,7 +32,7 @@
 >&#x1F4CC; [Дискорд](https://discord.com/channels/778984868146577458/778987971440672788)<br>
 >##### Работни и не само разговори.
 
-###### обратно в [съдържанието]()
+###### обратно в [съдържанието](https://github.com/podkrepi-bg/design/blob/main/readme.md#%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 
 ## Допълнителна информация
 
@@ -46,4 +46,4 @@
 > Всяка събота от 18:00<br>
 >##### Заб. Канала за срещи няма директен линк - влезте в дискорд (под dropdown срещи има звуков канал)/дизайн.
 
-###### обратно в [съдържанието]()
+###### обратно в [съдържанието](https://github.com/podkrepi-bg/design/blob/main/readme.md#%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
