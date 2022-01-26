@@ -27,7 +27,10 @@
 
 ## Работна среда 
 
->&#x1F4CB; [Фигма](https://www.figma.com/file/MmvFKzUv6yE5U2wrOpWtwS/Podkrepi.bg?node-id=0%3A7243)<br>
+>&#x1F4CB; [Фигма](https://www.figma.com)<br>
+>[UI kit](https://www.figma.com/file/MmvFKzUv6yE5U2wrOpWtwS/Podkrepi.bg?node-id=0%3A7243)<br>
+>[All Wireframes](https://www.figma.com/file/MmvFKzUv6yE5U2wrOpWtwS/Podkrepi.bg?node-id=4662%3A14)<br>
+>[All UI Mockups](https://www.figma.com/file/MmvFKzUv6yE5U2wrOpWtwS/Podkrepi.bg?node-id=3904%3A13406)<br>
 >##### Място за творчество. С удоволствие ще обсъдим всякакви съвети и идеи.
 >&#x1F4C8; [Зенхъб](https://app.zenhub.com/workspaces/design-61667129a41297002437fb37/board?repos=393660793)<br>
 >##### Тук разпределяме задачите и следим етапите им на изпълнение.
