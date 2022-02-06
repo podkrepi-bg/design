@@ -15,7 +15,7 @@
 > 03. ### [Шрифтове](https://github.com/podkrepi-bg/design/blob/main/readme.md#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B0-%D1%81%D1%80%D0%B5%D0%B4%D0%B0)<br>
 > 04. ###  [Допълнителна информация за Фигма](https://github.com/podkrepi-bg/design/blob/main/readme.md#%D0%B4%D0%BE%D0%BF%D1%8A%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)<br>
 > 05. ### [Приложения](https://github.com/podkrepi-bg/design/blob/main/readme.md#%D0%B4%D0%BE%D0%BF%D1%8A%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
->   * [01. Приложение](001) Кратки пътища във Фигма
+>   * [01. Приложение](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/01Figma.png) Кратки пътища във Фигма
 >   * [02. Приложение](https://www.youtube.com/watch?v=XA4fM5I4GvQ&list=PL7e8VJ_ZN6epq-oiYOufiuPI-fpDC2Mby&index=1) Видеа<br>
 >   * [03. Приложение](https://www.figma.com/best-practices/tips-on-developer-handoff/an-overview-of-figma-for-developers/) Статии<br>
 
@@ -34,7 +34,7 @@
 >##### Това е основната документация на проекта Подкрепи.бг и служи за организация на потоците от информация.
 >&#x1F4D8; [Onboarding](https://docs.google.com/document/d/1aRMfnVBzc4xd3wV3-B_jsx3ykiBvmqFO5VhnafRH55o/edit)<br>
 >##### Общ поглед върху работата по проекта и много допълнителна полезна информация. 
->&#x1F4D9; [01. Приложение](https://drive.google.com/drive/u/0/folders/1No71LVapl78v2_md9u6vcmWArCJ3UApb) Кратки пътища във Фигма<br>
+>&#x1F4D9; [01. Приложение](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/01Figma.png) Кратки пътища във Фигма<br>
 >##### Тук може да намерите всички кратки пътища във Фигма.
 >&#x1F4D9; [02. Приложение](https://drive.google.com/drive/u/0/folders/1No71LVapl78v2_md9u6vcmWArCJ3UApb) Видеа<br>
 >##### Тук може да намерите допълнителна полезна информация.
@@ -104,10 +104,12 @@
 > Скрива/показава UI интерфейса. Важно: ползва се наклонената наляво черта, която се намира до Enter. 
 > 01. Ctrl + Alt + Наклонена наляво черта<br>
 > Скрива/показава левия UI интерфейс. Важно: ползва се наклонената наляво черта, която се намира до Enter.
+> 01. Ctrl + Shift  + ?<br>
+> Скрива/показава всички кратки пътища във Фигма.
 ><br>
 ><br>
 >
->&#x1F4D9; [01. Приложение](https://drive.google.com/drive/u/0/folders/1No71LVapl78v2_md9u6vcmWArCJ3UApb) Всички кратки пътища във Фигма<br>
+>&#x1F4D9; [01. Приложение](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/01Figma.png) Всички кратки пътища във Фигма<br>
 <br>
 
 ##### обратно в [съдържанието][1]
