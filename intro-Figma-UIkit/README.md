@@ -90,16 +90,23 @@
  Основните бутони, които програмистите използват във Фигма, са Ctrl, Alt и i.
 > 01. Задържан Ctrl + клик селектира конкретен обект:
 > <br> 
+> 
+> ![](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/Ctrl.png)
 > <br>
-> ![](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/Ctrl.png)<br>
-> 01. Задържан Alt + hover около обекта показва отстоянията около него:<br>
+> <br>
+> 
+> 01. Задържан Alt + hover около обекта показва отстоянията около него:
+> <br>
+> 
 > ![](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/Alt.png)
 > <br>
 > <br>
-> 01. Натиснат i + клик селектира конкретен цвят:<br>
+> 01. Натиснат i + клик селектира конкретен цвят:
+> <br>
+> 
 > ![](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/i.png)
 > <br>
->
+><br>
 >
  За улеснение на работата често се ползват и следните допълнителни клавишни комбинации:
 > 01. Ctrl + z <br>
