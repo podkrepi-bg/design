@@ -28,19 +28,17 @@
 
 #### *Този файл е създаден с цел улеснение написването на код, използващ характерните за "Подкрепи.бр" бранд елементи. Той не е изчерпателен и ще бъде допълван!*
 
+Всички визии, за които ще се пише код, ще се съхраняват [тук](https://www.figma.com/file/MmvFKzUv6yE5U2wrOpWtwS/Podkrepi.bg?node-id=8281%3A24205). При селектиране на фрейма или на отделен негов елемент, можете да получите допълнителна информация под формата на код. За целта трябва да отидете на меню Inspect:<br>
 
-
->&#x1F4D7; [Начало](https://docs.podkrepi.bg/general/?cacheBust=1634744774411)<br>
->##### Това е основната документация на проекта Подкрепи.бг и служи за организация на потоците от информация.
->&#x1F4D8; [Onboarding](https://docs.google.com/document/d/1aRMfnVBzc4xd3wV3-B_jsx3ykiBvmqFO5VhnafRH55o/edit)<br>
->##### Общ поглед върху работата по проекта и много допълнителна полезна информация. 
->&#x1F4D9; [01. Приложение](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/01Figma-small.png) Кратки пътища във Фигма<br>
->##### Тук може да намерите всички кратки пътища във Фигма.
->&#x1F4D9; [02. Приложение](https://www.youtube.com/watch?v=XA4fM5I4GvQ&list=PL7e8VJ_ZN6epq-oiYOufiuPI-fpDC2Mby&index=1) Видеа<br>
->##### Тук може да намерите допълнителна полезна информация.
->&#x1F4D9; [03. Приложение](https://www.figma.com/best-practices/tips-on-developer-handoff/an-overview-of-figma-for-developers/) Статии<br>
->##### Тук може да намерите допълнителни четива.
+![](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/Inspect.png) 
 <br>
+В [02. Приложение](https://www.youtube.com/watch?v=XA4fM5I4GvQ&list=PL7e8VJ_ZN6epq-oiYOufiuPI-fpDC2Mby&index=1) ще откриете няколко кратки видеа, които ще ви дадат допълнителн информация, която може да ви бъде полезна във Фигма.<br>
+[03. Приложение](https://www.figma.com/best-practices/tips-on-developer-handoff/an-overview-of-figma-for-developers/) съдържа основните насоки за работа, адаптирани за разработчици.
+
+<br>
+<br>
+
+
 
 ##### обратно в [съдържанието][1]
 <br>
