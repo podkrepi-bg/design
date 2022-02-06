@@ -70,6 +70,30 @@
 
 ## Шрифтове 
 
+Основните шрифтове, които се използват в дизайн системата на Подкрепи.бг, са Montserrat и  Lato. <br>
+"Hero text" е отделна категория, която трябва да допишете в кода, когато въвеждате параметрите на шрифтовете. Този вид текст се ползва само на едно място- home page, за надписa върху hero image.
+<br>
+
+
+| 	Style name	    | 	Font name	| 	Font weight	 | Font size	 | 
+| 	:-----	        | 	:-----	    | 	:-----	     | :-----	 |
+| 	Hero text	    | 	Montserrat	| 	Medium	     | 64 px	 | 
+| 	h1	            | 	Montserrat	| 	Bold	     | 50 px	 | 
+| 	h2	            | 	Montserrat	| 	Bold	     | 40 px	 | 
+| 	h3	            | 	Montserrat	| 	SemiBold	 | 30 px	 | 
+| 	body1	        | 	Lato	    | 	Regular	     | 16 px	 | 
+| 	body2	        | 	Lato	    | 	Regular	     | 12 px	 | 
+| 	button Large	| 	Lato	    | 	SemiBold	 | 18 px	 | 
+| 	button Medium	| 	Lato	    | 	Medium	     | 16 px	 | 
+| 	button small	| 	Lato	    | 	SemiBold	 | 12 px	 | 
+
+##### *Заб. Това са най-често употребяваните шрифтове, таблицата ще се допълва!*
+<br>
+<br>
+
+Засега се ползва черен цвят за текстовете, различните проценти отразяват неговата наситеност:
+<br>
+
 | 	Text colors	 | Sample	 | 	Description	 | 
 | 	:-----	 | 	:-----	 | 	:-----	 | 
 | 	text/primary	| 	![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000`	100%| 	Text primary	 | 
