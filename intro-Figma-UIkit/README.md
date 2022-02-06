@@ -27,12 +27,16 @@
 
 
 #### *Този файл е създаден с цел улеснение написването на код, използващ характерните за "Подкрепи.бр" бранд елементи. Той не е изчерпателен и ще бъде допълван!*
+<br>
 
 Всички визии, за които ще се пише код, ще се съхраняват [тук](https://www.figma.com/file/MmvFKzUv6yE5U2wrOpWtwS/Podkrepi.bg?node-id=8281%3A24205). При селектиране на фрейма или на отделен негов елемент можете да получите допълнителна информация под формата на код, за целта трябва да отидете на меню Inspect:<br>
 
 ![](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/Inspect.png) 
+
 <br>
-В [02. Приложение](https://www.youtube.com/watch?v=XA4fM5I4GvQ&list=PL7e8VJ_ZN6epq-oiYOufiuPI-fpDC2Mby&index=1) ще откриете няколко кратки видеа, които ще ви дадат допълнителн информация, която може да ви бъде полезна във Фигма.<br>
+<br>
+
+В [02. Приложение](https://www.youtube.com/watch?v=XA4fM5I4GvQ&list=PL7e8VJ_ZN6epq-oiYOufiuPI-fpDC2Mby&index=1) ще откриете няколко кратки видеа, които ще ви дадат допълнителна информация, която може да ви бъде полезна във Фигма.<br>
 [03. Приложение](https://www.figma.com/best-practices/tips-on-developer-handoff/an-overview-of-figma-for-developers/) съдържа основните насоки за работа, адаптирани за разработчици.
 
 <br>
