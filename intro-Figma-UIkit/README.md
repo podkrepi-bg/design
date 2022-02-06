@@ -95,13 +95,13 @@
 > <br>
 > <br>
 > 
-> 01. Задържан Alt + hover около обекта показва отстоянията около него:
+> 02. Задържан Alt + hover около обекта показва отстоянията около него:
 > <br>
 > 
 > ![](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/Alt.png)
 > <br>
 > <br>
-> 01. Натиснат i + клик селектира конкретен цвят:
+> 03. Натиснат i + клик селектира конкретен цвят:
 > <br>
 > 
 > ![](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/i.png)
