@@ -36,7 +36,7 @@
 >##### Общ поглед върху работата по проекта и много допълнителна полезна информация. 
 >&#x1F4D9; [01. Приложение](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/01Figma-small.png) Кратки пътища във Фигма<br>
 >##### Тук може да намерите всички кратки пътища във Фигма.
->&#x1F4D9; [02. Приложение]((https://www.youtube.com/watch?v=XA4fM5I4GvQ&list=PL7e8VJ_ZN6epq-oiYOufiuPI-fpDC2Mby&index=1) Видеа<br>
+>&#x1F4D9; [02. Приложение](https://www.youtube.com/watch?v=XA4fM5I4GvQ&list=PL7e8VJ_ZN6epq-oiYOufiuPI-fpDC2Mby&index=1) Видеа<br>
 >##### Тук може да намерите допълнителна полезна информация.
 >&#x1F4D9; [03. Приложение](https://www.figma.com/best-practices/tips-on-developer-handoff/an-overview-of-figma-for-developers/) Статии<br>
 >##### Тук може да намерите допълнителни четива.
