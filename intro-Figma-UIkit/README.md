@@ -122,12 +122,13 @@
 > ![](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/Alt.png)
 > <br>
 > <br>
+> 
 > 03. Натиснат i + клик селектира конкретен цвят. Това е най-лесният вариант да извадите цвят от компонент. Хекс-кодът в кръгчето трябва да се препише, понеже не може да се копира:
 > <br>
 > 
 > ![](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/i.png)
 > <br>
-><br>
+> <br>
 >
  За улеснение на работата често се ползват и следните допълнителни клавишни комбинации:
 > 01. Ctrl + z <br>
