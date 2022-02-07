@@ -1,4 +1,3 @@
-
 # Основни елементи от дизайн системата на "Подкрепи.бг"!
 #### *Тук са поместени базовите положения от дизайн системата, които следва да се използват. Разработен е за [Material UI Theme Creator](https://bareynol.github.io/mui-theme-creator/). В обясненията са дадени връзки към оригиналните файлове във Фигма, в случай че ще се ползва друг инструмент.*
 <br>
@@ -11,16 +10,13 @@
 > 03. ### [Шрифтове](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/README.md#%D1%88%D1%80%D0%B8%D1%84%D1%82%D0%BE%D0%B2%D0%B5-1)<br>
 > 04. ###  [Допълнителна информация за Фигма](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/README.md#%D0%B4%D0%BE%D0%BF%D1%8A%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%B7%D0%B0-%D1%84%D0%B8%D0%B3%D0%BC%D0%B0-1)<br>
 > 05. ### [Приложения](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/README.md#%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-1)
->   * [01. Приложение](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/01Figma-small.png) Кратки пътища във Фигма
->   * [02. Приложение](https://www.youtube.com/watch?v=XA4fM5I4GvQ&list=PL7e8VJ_ZN6epq-oiYOufiuPI-fpDC2Mby&index=1) Видеа<br>
->   * [03. Приложение](https://www.figma.com/best-practices/tips-on-developer-handoff/an-overview-of-figma-for-developers/) Статии<br>
+>   * [01. Приложение][2] Кратки пътища във Фигма
+>   * [02. Приложение][3] Видеа<br>
+>   * [03. Приложение][4] Статии<br>
 
-
-<br>
 <br>
 
 ## 1. Основна информация
-
 
 #### *Този файл е създаден с цел улеснение написването на код, използващ характерните за "Подкрепи.бр" бранд елементи. Той не е изчерпателен и ще бъде допълван!*
 <br>
@@ -30,18 +26,16 @@
 ![](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/Inspect.png) 
 
 <br>
+
+В [02. Приложение][3] ще откриете няколко кратки видеа, които ще ви дадат допълнителна информация, която може да ви бъде полезна във Фигма.
 <br>
 
-В [02. Приложение](https://www.youtube.com/watch?v=XA4fM5I4GvQ&list=PL7e8VJ_ZN6epq-oiYOufiuPI-fpDC2Mby&index=1) ще откриете няколко кратки видеа, които ще ви дадат допълнителна информация, която може да ви бъде полезна във Фигма.
-<br>
-<br>
-[03. Приложение](https://www.figma.com/best-practices/tips-on-developer-handoff/an-overview-of-figma-for-developers/) съдържа основните насоки за работа, адаптирани за разработчици.
+[03. Приложение][4] съдържа основните насоки за работа, адаптирани за разработчици.
 
 <br>
 
 ##### обратно в [съдържанието][1]
-<br>
-<br>
+
 <br>
 
 ## Цветове
@@ -62,15 +56,12 @@
 
 ##### обратно в [съдържанието][1]
 <br>
-<br>
-<br>
 
 ## Шрифтове 
 
 Основните шрифтове, които се използват в дизайн системата на Подкрепи.бг, са Montserrat и  Lato. Всички разновидности на шрифтовете може да откриете [тук](https://www.figma.com/file/MmvFKzUv6yE5U2wrOpWtwS/Podkrepi.bg?node-id=38%3A4556). <br>
 "Hero text" е отделна категория, която трябва да допишете в кода, когато въвеждате параметрите на шрифтовете. Този вид текст се ползва само на едно място- home page, за надписa върху hero image.
 <br>
-
 
 | 	Style name	    | 	Font name	| 	Font weight	 | Font size	 | 
 | 	:-----	        | 	:-----	    | 	:-----	     | :-----	 |
@@ -96,11 +87,10 @@
 | 	text/primary	| 	![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000`	100%| 	Text primary	 | 
 | 	text/secondary	| 	![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` 60%	| 	Text secondary	 | 
 | 	text/disabled	| 	![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` 38%	| 	Text disabled	 |
+
 <br>
 
 ##### обратно в [съдържанието][1]
-<br>
-<br>
 <br>
 
 ## Допълнителна информация за Фигма
@@ -142,22 +132,27 @@
 ><br>
 ><br>
 >
->&#x1F4D9; [01. Приложение](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/01Figma-small.png) Всички кратки пътища във Фигма<br>
+>&#x1F4D9; [01. Приложение][2] Всички кратки пътища във Фигма<br>
+
 <br>
 
 ##### обратно в [съдържанието][1]
-<br>
-<br>
+
 <br>
 
 ## Приложения 
 
->   * [01. Приложение](https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/01Figma-small.png) Всички кратки пътища във Фигма
->   * [02. Приложение](https://www.youtube.com/watch?v=XA4fM5I4GvQ&list=PL7e8VJ_ZN6epq-oiYOufiuPI-fpDC2Mby&index=1) Серия от кратки ръководства за Фигма, създадени за разработчици.
->   * [03. Приложение](https://www.figma.com/best-practices/tips-on-developer-handoff/an-overview-of-figma-for-developers/) Статии<br>
+>   * [01. Приложение][2] Всички кратки пътища във Фигма
+>   * [02. Приложение][3] Серия от кратки ръководства за Фигма, създадени за разработчици.
+>   * [03. Приложение][4] Статии<br>
+
+<br>
 
 ##### обратно в [съдържанието][1]
 
-
+<br>
 
 [1]:https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/README.md#%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5
+[2]:https://github.com/podkrepi-bg/design/blob/main/intro-Figma-UIkit/intro-Figma-UIkit-img/01Figma-small.png
+[3]:https://www.youtube.com/watch?v=XA4fM5I4GvQ&list=PL7e8VJ_ZN6epq-oiYOufiuPI-fpDC2Mby&index=1
+[4]:https://www.figma.com/best-practices/tips-on-developer-handoff/an-overview-of-figma-for-developers/
